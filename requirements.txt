@@ -1,0 +1,2 @@
+# This version is per 21 Sept 2022
+google-cloud-storage==2.5.0
